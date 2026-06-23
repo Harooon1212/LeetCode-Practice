@@ -29,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Harooon1212/LeetCode-Practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
