@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0092-reverse-linked-list-ii](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0092-reverse-linked-list-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Harooon1212/LeetCode-Practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Math
