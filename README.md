@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0680-valid-palindrome-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/Harooon1212/LeetCode-Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0242-valid-anagram) |
 ## Simulation
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
