@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0043-multiply-strings) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Harooon1212/LeetCode-Practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0043-multiply-strings) |
 | [0242-valid-anagram](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0680-valid-palindrome-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/Harooon1212/LeetCode-Practice/tree/master/2390-removing-stars-from-a-string) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0043-multiply-strings) |
 | [2390-removing-stars-from-a-string](https://github.com/Harooon1212/LeetCode-Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
