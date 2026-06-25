@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0075-sort-colors) |
+| [0162-find-peak-element](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0162-find-peak-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
