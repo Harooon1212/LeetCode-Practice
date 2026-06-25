@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,4 +52,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
