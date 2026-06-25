@@ -49,12 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0162-find-peak-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0242-valid-anagram) |
 ## Simulation
 |  |
