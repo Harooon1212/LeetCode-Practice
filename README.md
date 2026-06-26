@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0043-multiply-strings) |
 | [0242-valid-anagram](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0680-valid-palindrome-ii) |
+| [1370-increasing-decreasing-string](https://github.com/Harooon1212/LeetCode-Practice/tree/master/1370-increasing-decreasing-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Harooon1212/LeetCode-Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0242-valid-anagram) |
+| [1370-increasing-decreasing-string](https://github.com/Harooon1212/LeetCode-Practice/tree/master/1370-increasing-decreasing-string) |
 ## Simulation
 |  |
 | ------- |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
+## Counting
+|  |
+| ------- |
+| [1370-increasing-decreasing-string](https://github.com/Harooon1212/LeetCode-Practice/tree/master/1370-increasing-decreasing-string) |
 <!---LeetCode Topics End-->
