@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0092-reverse-linked-list-ii) |
 | [0234-palindrome-linked-list](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0237-delete-node-in-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Harooon1212/LeetCode-Practice/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Harooon1212/LeetCode-Practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Math
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0043-multiply-strings) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Harooon1212/LeetCode-Practice/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/Harooon1212/LeetCode-Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
