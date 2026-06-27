@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0162-find-peak-element) |
+| [0794-valid-tic-tac-toe-state](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0794-valid-tic-tac-toe-state) |
 | [0905-sort-array-by-parity](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0905-sort-array-by-parity) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Harooon1212/LeetCode-Practice/tree/master/1441-build-an-array-with-stack-operations) |
 ## Hash Table
@@ -121,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
+## Matrix
+|  |
+| ------- |
+| [0794-valid-tic-tac-toe-state](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0794-valid-tic-tac-toe-state) |
 <!---LeetCode Topics End-->
