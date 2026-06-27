@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Harooon1212/LeetCode-Practice/tree/master/2390-removing-stars-from-a-string) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Harooon1212/LeetCode-Practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -106,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1370-increasing-decreasing-string](https://github.com/Harooon1212/LeetCode-Practice/tree/master/1370-increasing-decreasing-string) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
