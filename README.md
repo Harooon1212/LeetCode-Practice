@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0162-find-peak-element](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0162-find-peak-element) |
 | [0794-valid-tic-tac-toe-state](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0794-valid-tic-tac-toe-state) |
 | [0905-sort-array-by-parity](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0905-sort-array-by-parity) |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-valid-tic-tac-toe-state](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0794-valid-tic-tac-toe-state) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Harooon1212/LeetCode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
